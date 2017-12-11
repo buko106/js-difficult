@@ -1,0 +1,28 @@
+table{
+  border-collapse: collapse;
+  text-align: center;
+  line-height: 2.5;
+}
+
+table thead{
+  background: #ddd;
+}
+
+table th{
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-top: 1px solid #000;
+  border-left: 1px solid #000;
+  background: #ddd;
+}
+
+table td{
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-top: 1px solid #000;
+  border-left: 1px solid #000;
+}
+
+table .true{
+  background: #8af8ec;
+}
