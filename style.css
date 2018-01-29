@@ -28,8 +28,12 @@ table .true{
 }
 
 #buttons-js-difficult{
-  display:flex;
-  justify-content: space-around;
+  text-align: center;
+}
+
+#buttons-js-difficult button{
+  width: 15%;
+  margin: 2px;
 }
 
 #table-js-difficult{
